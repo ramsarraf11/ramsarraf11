@@ -23,9 +23,15 @@
 - We request you to not just submit it last minute
 - Try to keep one submission at a time -->
 <h1 align="center">Hi 👋, I'm Ram Sarraf</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-
+<h3 align="center">A passionate Backend developer from Pune,India</h3>
+<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsarraf11&label=Profile%20views&color=0e75b6&style=flat" alt="ramsarraf11" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://ramsarraf11-github-io.vercel.app/](https://ramsarraf11-github-io.vercel.app/)
+
+- 📫 How to reach me **ramsarraf00@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsarraf11&show_icons=true&locale=en" alt="ramsarraf11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsarraf11&" alt="ramsarraf11" /></p>
+
 
