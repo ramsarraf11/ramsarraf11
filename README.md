@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramsarraf00@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1GTodeY_Z6FOsnmS5y6h-2eeDDRoFg6nJ/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1GTodeY_Z6FOsnmS5y6h-2eeDDRoFg6nJ/view?usp=sharing,target="_blank")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
