@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Sensesemi Technologies Pvt. Ltd.**
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/ramsarraf11)
 - 📫 How to reach me **ramsarraf00@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1GTodeY_Z6FOsnmS5y6h-2eeDDRoFg6nJ/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mxi5QVoSD71ftlENkbX_Gg8QftXqov2g/view?usp=drive_link)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
